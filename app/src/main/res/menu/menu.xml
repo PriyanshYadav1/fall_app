@@ -3,19 +3,19 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/home"
+        android:id="@+id/home_nvicon"
         android:icon="@drawable/home_icon"
         android:title="Home" />
     <item
-        android:id="@+id/dash"
+        android:id="@+id/dash_nvicon"
         android:icon="@drawable/dashboard_icon"
         android:title="Dashboard" />
     <item
-        android:id="@+id/favorite"
-        android:icon="@drawable/favorite_icon"
-        android:title="Favorite" />
+        android:id="@+id/chat_nvicon"
+        android:icon="@drawable/chat_icon"
+        android:title="Chat" />
     <item
-        android:id="@+id/profile"
+        android:id="@+id/profile_nvicon"
         android:icon="@drawable/profile_icon"
         android:title="Profile" />
 </menu>
